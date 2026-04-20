@@ -7,12 +7,12 @@ This organization contains the source code, simulation assets, and documentation
 Our objective is to design, implement, and evaluate a digitally twinned autonomous system. By integrating a physical TurtleBot with its digital twin in Gazebo Sim, our system is engineered to address a specific societal challenge aligned with the UN Sustainable Development Goals (SDGs). 
 
 ## Repositories
-* **[digital-twin-core]**: The primary ROS 2 workspace containing our Python logic nodes, custom messages, and Gazebo simulation launch files.
-* **[documentation]**: Project management tracking, risk assessments, and concept maps for Phase 1 and Phase 2 deliverables.
+* **[digital-twin-core](https://github.com/TUe-2IRR10-2026-Team18/digital-twin-core)**: The primary ROS 2 workspace containing our Python logic nodes, custom messages, and Gazebo simulation launch files.
+* **[documentation](https://github.com/TUe-2IRR10-2026-Team18/documentation)**: Project management tracking, risk assessments, and concept maps for Phase 1 and Phase 2 deliverables.
 
 ## Team Members
-* [Connor Alecks]
-* [Xiaolin Chen]
+* [Connor Alecks](https://github.com/eConnah)
+* [Xiaolin Chen](https://github.com/blahaj-delulu)
 * [Samin Mahdieh]
 * [Yajat Sharma]
 * [Jakub Trčka]
