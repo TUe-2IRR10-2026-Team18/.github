@@ -14,12 +14,12 @@ Our objective is to design, implement, and evaluate a digitally twinned autonomo
 * [Connor Alecks](https://github.com/eConnah)
 * [Xiaolin Chen](https://github.com/blahaj-delulu)
 * [Yajat Sharma](https://github.com/Yajat-s)
+* [Jakub Trčka](https://github.com/wargaze)
 * [Samin Mahdieh]
-* [Jakub Trčka]
 * [Huseyin Özuyanık]
 
 ### MIA
-- [Irina Georgieva]
+- Irina Georgieva
 
 ## Course Information
 * **Institution:** Eindhoven University of Technology
