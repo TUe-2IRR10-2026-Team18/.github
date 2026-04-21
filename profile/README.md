@@ -13,11 +13,13 @@ Our objective is to design, implement, and evaluate a digitally twinned autonomo
 ## Team Members
 * [Connor Alecks](https://github.com/eConnah)
 * [Xiaolin Chen](https://github.com/blahaj-delulu)
+* [Yajat Sharma](https://github.com/Yajat-s)
 * [Samin Mahdieh]
-* [Yajat Sharma]
 * [Jakub Trčka]
-* [Irina Georgieva]
 * [Huseyin Özuyanık]
+
+### MIA
+- [Irina Georgieva]
 
 ## Course Information
 * **Institution:** Eindhoven University of Technology
