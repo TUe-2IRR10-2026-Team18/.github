@@ -15,8 +15,8 @@ Our objective is to design, implement, and evaluate a digitally twinned autonomo
 * [Xiaolin Chen](https://github.com/blahaj-delulu)
 * [Yajat Sharma](https://github.com/Yajat-s)
 * [Jakub Trčka](https://github.com/wargaze)
-* [Samin Mahdieh]
-* [Huseyin Özuyanık]
+* [Huseyin Özuyanık](https://github.com/huseyincelal175)
+* [Samin Mahdieh](https://github.com/devsaminm)
 
 ### MIA
 - Irina Georgieva
