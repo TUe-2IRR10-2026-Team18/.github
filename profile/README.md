@@ -18,9 +18,6 @@ Our objective is to design, implement, and evaluate a digitally twinned autonomo
 * [Huseyin Özuyanık](https://github.com/huseyincelal175)
 * [Samin Mahdieh](https://github.com/devsaminm)
 
-### MIA
-- Irina Georgieva
-
 ## Course Information
 * **Institution:** Eindhoven University of Technology
 * **Course:** 2IRR10 (2025-4)
